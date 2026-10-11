@@ -48,7 +48,7 @@ El diagrama muestra la lógica completa con validaciones `isdigit()`, `isalpha()
 
 [Diagrama](Diagrama_Ahorcado.png)
 
-Puedes editarlo en [https://app.diagrams.net](https://app.diagrams.net/) abriendo `Diagrama_Ahorcado.drawio`
+Puedes editarlo en https://app.diagrams.net/ abriendo `Diagrama_Ahorcado.drawio`
 
 ### 🧠 Concepto Clave: while vs def
 
