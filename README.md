@@ -17,7 +17,7 @@ Clásico juego del ahorcado por consola **y ahora con interfaz gráfica Tkinter*
 Ahorcado-python/
 ├── Ahorcado.py              # Versión consola original
 ├── AhorcadoTkinter.py       # Versión con interfaz gráfica (Tkinter)
-├── Diagrama_Ahorcado.drawio # Diagrama de flujo editable (draw.io)
+├── Diagrama_AhorcadoFin.drawio # Diagrama de flujo editable (draw.io)
 └── README.md
 ```
 
@@ -46,7 +46,7 @@ python AhorcadoTkinter.py
 
 El diagrama muestra la lógica completa con validaciones `isdigit()`, `isalpha()`, `len() != 1` y las ramas Si/No.
 
-[Diagrama](Diagrama_Ahorcado.png)
+[Diagrama](Diagrama_AhorcadoFin.png)
 
 Puedes editarlo en https://app.diagrams.net/ abriendo `Diagrama_AhorcadoFin.drawio`
 
