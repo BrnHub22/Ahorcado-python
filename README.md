@@ -28,7 +28,7 @@ Ahorcado-python/
 python Ahorcado.py
 ```
 
-### 🖌️ Versión 2: Tkinter (Nueva)
+### 🖌️ Versión 2: Tkinter
 
 ```bash
 python AhorcadoTkinter.py
@@ -45,7 +45,7 @@ El diagrama muestra la lógica completa con validaciones `isdigit()`, `isalpha()
 
 [Diagrama de Flujo](Diagrama_AhorcadoFin.png)
 
-> Archivo editable: `Diagrama_AhorcadoFin.drawio` (abrir en https://app.diagrams.net)
+> Descarga el archivo y edítalo: `Diagrama_AhorcadoFin.drawio` Ojo (abrir en https://app.diagrams.net)
 
 ### 🧠 Concepto Clave: while vs def
 
