@@ -27,7 +27,7 @@ Ahorcado-python/
 python Ahorcado.py
 ```
 
-### 🖌️ Versión 2: Tkinter (Nueva)
+### 🖌️ Versión 2: Tkinter 
 
 ```bash
 python AhorcadoTkinter.py
