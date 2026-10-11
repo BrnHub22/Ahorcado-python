@@ -46,7 +46,7 @@ python AhorcadoTkinter.py
 
 El diagrama muestra la lógica completa con validaciones `isdigit()`, `isalpha()`, `len() != 1` y las ramas Si/No.
 
-[Diagrama](Diagrama_AhorcadoFin.png)
+[Diagrama](Diagrama_AhorcadoFin.drawio)
 
 Puedes editarlo en https://app.diagrams.net/ abriendo `Diagrama_AhorcadoFin.drawio`
 
