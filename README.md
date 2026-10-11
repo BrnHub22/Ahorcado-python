@@ -18,7 +18,6 @@ Ahorcado-python/
 ├── Ahorcado.py              # Versión consola original
 ├── AhorcadoTkinter.py       # Versión con interfaz gráfica (Tkinter)
 ├── Diagrama_Ahorcado.drawio # Diagrama de flujo editable (draw.io)
-├── Diagrama_Ahorcado.png    # Diagrama exportado como imagen
 └── README.md
 ```
 
@@ -57,6 +56,3 @@ En consola usamos `while intentos > 0` + `input()`. En Tkinter no se puede usar 
 
 ### 👨‍💻 Autor
 **BrnHub22 (Brayan Cope)** - 2026 - Lógica de Programación
-
-### 📜 Licencia
-Proyecto educativo.
